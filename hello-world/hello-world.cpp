@@ -1,3 +1,8 @@
+//Hello World
+//
+//modified from
+//http://www.tutorialspoint.com/compile_cpp11_online.php
+
 #include <iostream>
 using namespace std;
 
@@ -7,5 +12,3 @@ int main()
   return 0;
 }
 
-//see more on
-//http://www.tutorialspoint.com/compile_cpp11_online.php
